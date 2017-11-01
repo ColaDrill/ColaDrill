@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Self Introduction
 
-You can use the [editor on GitHub](https://github.com/ColaDrill/ColaDrill1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graduated from Southeast University, School of Computer Science and Engineering, love algorithm research, modeling, research, software project development and a variety of recreational activities, like to learn a variety of professional practical curriculum knowledge, especially machine learning and data mining algorithms.
 
 ### Markdown
 
