@@ -1,3 +1,7 @@
+## Bachelor of Science
+
+- Master of Southeast University, China
+
 ## Self Introduction
 
 - Graduated from Southeast University, School of Computer Science and Engineering
