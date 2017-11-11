@@ -1,6 +1,7 @@
-## Bachelor of Science
+## Bachelor
 
-- Master of Southeast University, China
+- M.E. At Southeast University, China
+- Majoring in machine learning and data mining
 
 ## Self Introduction
 
@@ -16,6 +17,5 @@
 
 ## Email
 
-- 876126135ATqq.com
-- caijiayueAToutlook.com
-- caijiayue2ATgmail.com
+- caijiayue AT outlook.com
+- caijiayue2 AT gmail.com
