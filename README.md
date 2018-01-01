@@ -1,7 +1,7 @@
 ## Bachelor
 
 - M.E. At Southeast University, China
-- Majoring in machine learning and data mining
+- Majoring in machine learning and data mining, CS
 
 ## Self Introduction
 
