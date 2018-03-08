@@ -1,3 +1,7 @@
+## LinkedIn
+
+- [LinkedIn Page](https://www.linkedin.com/in/jiayuecai/)
+
 ## Bachelor
 
 - M.E. At Southeast University, China
@@ -17,5 +21,9 @@
 
 ## Email
 
-- caijiayue AT outlook.com
-- caijiayue2 AT gmail.com
+- caijiayue@outlook.com
+- caijiayue2@gmail.com
+
+## Blog
+
+- [My Blog](https://coladrill.github.io/)
