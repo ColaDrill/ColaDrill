@@ -6,7 +6,7 @@
 
 - [My Blog](https://coladrill.github.io/)
 
-## Bachelor
+## Education
 
 - M.E. At Southeast University, China
 - Major in machine learning and data mining, CS
