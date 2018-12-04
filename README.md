@@ -2,6 +2,10 @@
 
 - [LinkedIn Page](https://www.linkedin.com/in/jiayuecai/)
 
+## Blog
+
+- [My Blog](https://coladrill.github.io/)
+
 ## Bachelor
 
 - M.E. At Southeast University, China
@@ -15,15 +19,11 @@
 
 ## Prize
 
-- kaggle : [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) (20th of 1100, top 2%)
+- kaggle : [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) (26th of 1244, top 3%)
 - kaggle : [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (38th of 9299, top 1%)
 - MCM/ICM : [International Students Mathematical Modeling Contest](https://www.comap.com/undergraduate/contests/) (First prize,2016 in America)
 
 ## Email
 
-- caijiayue@outlook.com
-- caijiayue2@gmail.com
-
-## Blog
-
-- [My Blog](https://coladrill.github.io/)
+- caijiayue AT outlook.com
+- caijiayue2 AT gmail.com
