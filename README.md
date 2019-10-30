@@ -8,20 +8,16 @@
 
 ## Education
 
-- M.E. At Southeast University, China
-- Major in machine learning and data mining, CS
+- M.E. At Southeast University, China.
+- Major in machine learning and data mining, CS.
 
 ## Self Introduction
 
-- Graduated from Southeast University, School of Computer Science and Engineering
-- Love algorithm, modeling, research, software project development and a variety of recreational activities
+- Love algorithm, modeling, research, software project development and a variety of recreational activities.
 - Like to learn a variety of professional practical curriculum knowledge, especially machine learning and data mining algorithms.
-
-## Prize
-
-- kaggle : [Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification) (26th of 1244, top 3%)
-- kaggle : [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (38th of 9299, top 1%)
-- MCM/ICM : [International Students Mathematical Modeling Contest](https://www.comap.com/undergraduate/contests/) (First prize,2016 in America)
+- 2018.12-2019.3 Internship at Baidu, participated in the recall strategy optimization task of Feed flow recommendation system in Baidu app.
+- 2019.7-2019.9 Internship at Ant Financial Group, participated in the "Recommended for you" project of the merchant service module in Alipay app, implement the recommendation system by the off-policy reinforcement learning model.
+- 2020.7 Working in Tencent's WeChat payment department.
 
 ## Email
 
