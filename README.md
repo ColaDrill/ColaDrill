@@ -18,7 +18,7 @@
 
 - 2018.12-2019.3 Internship at Baidu, participated in the recall strategy optimization task of feed flow recommendation system in Baidu app.
 - 2019.7-2019.9 Internship at Ant Financial Group, participated in the "Recommended for you" project of the merchant service module in Alipay app, implement the recommendation system by the off-policy reinforcement learning model.
-- 2020.7- Working in Tencent, department of WeChat payment.
+- 2020.7- Working in Tencent's WeChat Business Group.
 
 ## Email
 
